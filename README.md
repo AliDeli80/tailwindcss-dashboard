@@ -59,3 +59,7 @@ This project utilizes the following Tailwind UI components:
 - Implement a toggle switch or user preference setting to allow users to choose between light and dark mode.
 
 By following these steps and leveraging the power of Tailwind CSS and Tailwind UI, you can create stunning, functional, and user-friendly dashboards for your web applications.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
